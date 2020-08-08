@@ -1,5 +1,21 @@
 # List of AI Residency Programs
 
+## All year internships: 
+- MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
+
+## 2020
+- AI Residency Applied to Industry for professionals [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/programa-de-residencia-em-inteligencia-artificial-1-36629-439969.shtml). Application Deadline: Mar 15, 2020.
+- AI Residency Applied to Industry for companies [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/residencia-1-36629-428622.shtml). Application Deadline: Jul 31, 2020.
+- Uber AI Residency Program [[Link]](https://careersinfo.uber.com/ai-residency) . Application Deadline: Jan 19, 2020.
+- Shell AI Residency Program [[Link]](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html) . Application Deadline: Dec 31, 2019.
+- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: January 31, 2020, 05:00pm PST.
+- Microsoft AI Residency Program [[Link]](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/?OCID=msr_career_aires_tw) . Application Deadline: Jan 31, 2020.
+- Google AI Residency [[Link](https://ai.google/research/join-us/ai-residency/)]. Application Deadline:  December 19th, 2019.
+- Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
+- Google AI Resident (Health), 2020 Start - London, UK  [[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- Google AI Resident (Health), 2020 - Start Palo Alto, CA, USA [[Link](https://careers.google.com/jobs/results/95901233513931462-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- OpenAI 2020 Winter Scholars [[Link](https://jobs.lever.co/openai/d30e1f04-b548-4503-ba8b-9853cb49bdc7)]. Application Deadline: Nov 15, 2019.
+
 ## 2019
 
 - Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
@@ -14,6 +30,7 @@
 - Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
 - PAI Fellowship Program  [[Link](https://www.partnershiponai.org/fellowship-program/)]
+- VinAI - AI Residency Program [[Link](https://www.vinai.io/airesidency.html)]
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
@@ -33,7 +50,8 @@
 - Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
 
 ### Blog
-
+- [Video: AI Residency 2020: All You Need to Know (+examples)](https://www.youtube.com/watch?v=L_OtjN-KfRc&feature=emb_title).
+- [Video: AI Residency Interview: All you need to know [Research Internship Interview]](https://www.youtube.com/watch?v=Wj3RfjZwues&feature=emb_title)
 - [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
 - [Google Brain Residency](http://tinyclouds.org/residency/)
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
